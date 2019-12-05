@@ -11,4 +11,8 @@ public class Repeat {
     public func tellMeAgain() -> String {
         phrase
     }
+    
+    public func whatDoesPollyWant() -> String {
+        "Cracker"
+    }
 }
