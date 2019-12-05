@@ -26,6 +26,7 @@
 		861D664423971B8600672D0E /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		861D664723971B8600672D0E /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		861D664923971B8600672D0E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		861D665B2399B95500672D0E /* Package.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Package.swift; sourceTree = "<group>"; };
 		86C792202397185B006010C7 /* Parrot.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Parrot.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		86C792232397185B006010C7 /* Parrot.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Parrot.h; sourceTree = "<group>"; };
 		86C792242397185B006010C7 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
@@ -67,6 +68,7 @@
 		86C792162397185B006010C7 = {
 			isa = PBXGroup;
 			children = (
+				861D665B2399B95500672D0E /* Package.swift */,
 				86C792222397185B006010C7 /* Parrot */,
 				861D663A23971B8500672D0E /* ParrotApp */,
 				86C792212397185B006010C7 /* Products */,
